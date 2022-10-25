@@ -1,2 +1,2 @@
 # sharedbytes
-Common Bytes Specification, for data deduplication
+SharedBytes Specification, for data deduplication and linking
