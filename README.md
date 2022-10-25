@@ -1,4 +1,4 @@
-# sharedbytes
+# SharedBytes
 SharedBytes Specification, for data deduplication and linking
 
 Example repos (also for git L2s)
