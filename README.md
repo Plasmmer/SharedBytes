@@ -1,6 +1,6 @@
 # sharedbytes
 SharedBytes Specification, for data deduplication and linking
 
-Example repos
+Example repos (also for git L2s)
 - [ ] https://github.com/danimesq/Personal-Vaccines
 - [ ] https://github.com/danimesq/Personal-OpenBanking
